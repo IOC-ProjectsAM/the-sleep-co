@@ -9,7 +9,13 @@
     padding: 0.5rem;
     border: 1px solid red;
 }
-body{border: none;}
+body{
+    border: none;
+    font-family:"Catamaran", sans-serif;
+    color: #192B37;
+
+
+}
 html{border: none;}
 
 
@@ -29,4 +35,7 @@ html{border: none;}
     background-color: #1a1e3f;
     color: white;
 }
+.text-left   { text-align: left; }
+.text-center { text-align: center; }
+.text-right  { text-align: right; }
 

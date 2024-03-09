@@ -5,18 +5,17 @@
 }
 /*-------temp styles for structural html------*/
 
-*{
-    padding: 0.5rem;
-    border: 1px solid red;
+section{
+    border: 2px solid red;
 }
 body{
-    border: none;
+    
     font-family:"Catamaran", sans-serif;
     color: #192B37;
 
 
 }
-html{border: none;}
+html{}
 
 
 /* Images */
@@ -38,4 +37,6 @@ html{border: none;}
 .text-left   { text-align: left; }
 .text-center { text-align: center; }
 .text-right  { text-align: right; }
+
+/* Header Styles */
 

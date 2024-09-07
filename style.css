@@ -35,6 +35,11 @@ body{
     background-color: #f4b525;
     
 }
+.bg-accent{
+    background-color: #e3ecf2;
+    
+
+}
 
 .tall-50 { min-height: 50vh; }
 .tall-60 { min-height: 60vh; }

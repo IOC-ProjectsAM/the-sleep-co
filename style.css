@@ -10,6 +10,10 @@
     background-size: cover;
     min-height: 10rem;
 }
+.landscape { padding-bottom: 65%;}
+.portrait { padding-bottom: 125%;}
+.square { padding-bottom: 100%;}
+
 
 /*Universial styles & Ultity classes*/
 
@@ -27,6 +31,10 @@ body{
     background-color: #1a1e3f;
     color: white;
 }
+.bg-featured { 
+    background-color: #f4b525;
+    
+}
 
 .tall-50 { min-height: 50vh; }
 .tall-60 { min-height: 60vh; }
@@ -39,11 +47,15 @@ body{
 
 /* Typography Style */
 
+h2, h3, h4, h5, h6{
+    margin-bottom: 1rem;
+    line-height: 1.1;
+}
+
 h2{
     font-size: 2.5rem;
     font-weight: 800;
-    line-height: 1.1;
-    margin-bottom: 1rem;
+    
 }
 
 h3{
@@ -58,6 +70,7 @@ p:last-child{
     margin-bottom: 0;
 }
 .featured-text { color:#FFBE00;}
+.featured-white { color:white;}
 .white-text { color:white; }
 
 .small-text { font-size: 1.5rem;}

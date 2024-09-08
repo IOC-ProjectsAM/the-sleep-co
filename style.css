@@ -74,6 +74,7 @@ p{
 p:last-child{
     margin-bottom: 0;
 }
+
 .featured-text { color:#FFBE00;}
 .featured-white { color:white;}
 .white-text { color:white; }
@@ -83,6 +84,7 @@ p:last-child{
     font-size: 2rem;
     line-height: 1.5;
 }
+
 .big-text { font-size: 4.5rem;}
 
 
@@ -114,6 +116,7 @@ header{
     background-image: url(Images/Sleep-Co\ 4.jpg);
     background-size: cover;
     background-position: center;
+    padding: 1%,5%;
 
 }
 

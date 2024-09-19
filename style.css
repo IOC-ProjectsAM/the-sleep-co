@@ -215,6 +215,9 @@ textarea:focus{
 /* - Styles added here will apply at devices smaller than 768px, or zoomed in equivalent */ 
 
 @media (max-width: 48em) {
+
+    html{ font-size: 14px;}
+    p font-size: {: 1.1rem;}
     body {border: 2px solid blue;}
 
     .show-sm { display: block; }
